@@ -1,0 +1,16 @@
+Animation Name: Kermit Death
+
+Duration: 1500
+
+Number of Images: 5
+
+Number of Columns: 5
+
+OffsetX: 50
+
+OffsetY: -25
+
+** Only for additional values
+Width: 69
+
+Height: 0

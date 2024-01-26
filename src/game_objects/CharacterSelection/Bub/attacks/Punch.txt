@@ -1,0 +1,9 @@
+Attack Type: PUNCH
+
+Damage: 10
+
+Range: 5
+
+Duration: 2000
+
+Block Damage: 1.0

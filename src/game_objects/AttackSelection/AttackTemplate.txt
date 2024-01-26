@@ -1,0 +1,9 @@
+Attack Type: 
+
+Damage: 
+
+Range: 
+
+Duration: 
+
+Block Damage: 

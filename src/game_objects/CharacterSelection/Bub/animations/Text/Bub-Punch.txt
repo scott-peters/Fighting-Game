@@ -1,0 +1,16 @@
+Animation Name: Bub Punch
+
+Duration: 700
+
+Number of Images: 4
+
+Number of Columns: 4
+
+OffsetX: -25
+
+OffsetY: 0
+
+** Only for additional values
+Width: 28
+
+Height: 0

@@ -1,0 +1,16 @@
+Animation Name: Bub Death
+
+Duration: 1750
+
+Number of Images: 10
+
+Number of Columns: 10
+
+OffsetX: 55
+
+OffsetY: 125
+
+** Only for additional values
+Width: -12
+
+Height: 20

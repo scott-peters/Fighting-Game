@@ -1,0 +1,16 @@
+Animation Name: Kermit Jump
+
+Duration: 1000
+
+Number of Images: 5
+
+Number of Columns: 5
+
+OffsetX: 0
+
+OffsetY: 0
+
+** Only for additional values
+Width: 65
+
+Height: 0

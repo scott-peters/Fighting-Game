@@ -1,0 +1,16 @@
+Animation Name: Bub Stance
+
+Duration: 1000
+
+Number of Images: 1
+
+Number of Columns: 1
+
+OffsetX: -10
+
+OffsetY: 0
+
+** Only for additional values
+Width: 0
+
+Height: 0

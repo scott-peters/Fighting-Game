@@ -1,0 +1,11 @@
+Character Name: Kermit
+
+Max Health: 100
+
+Default Speed: 300
+
+Jump Speed: 1250
+
+Width: 135
+
+Height: 250
